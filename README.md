@@ -7,13 +7,10 @@ Today with the use of Seaview and PhylML I am going to determine on dataset comi
 The dataset contained 30 randomly chosen HIV patients in Lafayette, 4 sequences from victim and other gastroenterologist’s HIV-positive patients.
 The analysis were performed with different level of bootstrap: 50, 100, 150, 200, 500 and 1000.
 
-
-No bootstrap
-
-
-![image](https://github.com/OrangePomeranian/HIV_phylogenetic_tree/assets/67764136/1ea081b3-cd2f-4ccc-b93f-e7f9e4ba1c82)
+Analysis
 
 
+Conclusion
 
 Sources
 https://www.pnas.org/doi/pdf/10.1073/pnas.222522599
