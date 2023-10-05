@@ -10,8 +10,8 @@ The analysis were performed with different level of bootstrap: 50, 100, 150, 200
 
 No bootstrap
 
-[HIVpol-PhyML_tree_no_boot.pdf](https://github.com/OrangePomeranian/HIV_phylogenetic_tree/files/12823167/HIVpol-PhyML_tree_no_boot.pdf)
 
+[HIVpol-PhyML_tree_no_boot.pdf](https://github.com/OrangePomeranian/HIV_phylogenetic_tree/files/12823182/HIVpol-PhyML_tree_no_boot.pdf)
 
 
 
